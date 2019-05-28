@@ -1,3 +1,3 @@
 # hello-world
-help
-nathan yoon
+assist
+nathan howon yoon
